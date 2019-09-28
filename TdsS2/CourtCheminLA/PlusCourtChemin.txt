@@ -1,0 +1,4 @@
+Les sommets correspondant aux plus court chemins sont : 
+B D C E F 
+Les valeurs des plus chemins du sommet 2 vers tous les autres sommets dans l'ordre A,B,C,D,E,F sont:
+150000 0 3 2 4 6 
